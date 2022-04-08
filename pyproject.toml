@@ -7,6 +7,8 @@ authors = ["Woodman <bnpysse@aliyun.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
+baidupcs-py = "^0.6.32"
+pyquery = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 
